@@ -1,0 +1,55 @@
+#######################################
+# Syntax Coloring Map For LEDHSV
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LEDHSV	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setHue	KEYWORD2
+setSaturation	KEYWORD2
+setBrightness	KEYWORD2
+setAutoSend	KEYWORD2
+setAnode	KEYWORD2
+getRedPin	KEYWORD2
+getGreenPin	KEYWORD2
+getBluePin	KEYWORD2
+getRedValue	KEYWORD2
+getGreenValue	KEYWORD2
+getBlueValue	KEYWORD2
+getHue	KEYWORD2
+getSaturation	KEYWORD2
+getBrightness	KEYWORD2
+getAutoSend	KEYWORD2
+getState	KEYWORD2
+getAnode	KEYWORD2
+off	KEYWORD2
+on	KEYWORD2
+send	KEYWORD2
+setHSV	KEYWORD2
+init	KEYWORD2
+setup	KEYWORD2
+HSV2RGB	KEYWORD2
+setRGB	KEYWORD2
+setPins	KEYWORD2
+setState	KEYWORD2
+setRedPin	KEYWORD2
+setGreenPin	KEYWORD2
+setBluePin	KEYWORD2
+setRedValue	KEYWORD2
+setGreenValue	KEYWORD2
+setBlueValue	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
