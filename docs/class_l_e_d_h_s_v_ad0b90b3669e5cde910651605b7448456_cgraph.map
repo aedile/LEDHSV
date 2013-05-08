@@ -1,0 +1,5 @@
+<map id="LEDHSV::setPins" name="LEDHSV::setPins">
+<area shape="rect" id="node2" href="$class_l_e_d_h_s_v.html#aae45fb425a2fb19bba02fc1deb75b04b" title="LEDHSV::setBluePin" alt="" coords="186,5,331,32"/>
+<area shape="rect" id="node3" href="$class_l_e_d_h_s_v.html#a4d9288b074c28961c506d6dabff166f5" title="LEDHSV::setGreenPin" alt="" coords="181,56,336,83"/>
+<area shape="rect" id="node4" href="$class_l_e_d_h_s_v.html#ae07d5d74d9266aaebcbbbd306c125484" title="LEDHSV::setRedPin" alt="" coords="187,107,330,133"/>
+</map>

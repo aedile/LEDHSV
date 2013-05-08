@@ -1,0 +1,20 @@
+<map id="LEDHSV::init" name="LEDHSV::init">
+<area shape="rect" id="node2" href="$class_l_e_d_h_s_v.html#ab1e8fb9cbad3a11346d2158673948099" title="LEDHSV::setAnode" alt="" coords="162,19,299,45"/>
+<area shape="rect" id="node3" href="$class_l_e_d_h_s_v.html#a5641ccd916fc6948f87da89c3baf12c8" title="LEDHSV::setAutoSend" alt="" coords="152,69,309,96"/>
+<area shape="rect" id="node4" href="$class_l_e_d_h_s_v.html#ae0886b8afed0c86e428056cf8e1c9224" title="LEDHSV::setHSV" alt="" coords="167,120,294,147"/>
+<area shape="rect" id="node15" href="$class_l_e_d_h_s_v.html#ad0b90b3669e5cde910651605b7448456" title="LEDHSV::setPins" alt="" coords="167,183,294,209"/>
+<area shape="rect" id="node12" href="$class_l_e_d_h_s_v.html#a84b2533c869c1dba4188c940ac5f8ef8" title="LEDHSV::setState" alt="" coords="1152,233,1283,260"/>
+<area shape="rect" id="node19" href="$class_l_e_d_h_s_v.html#abf15e59ae722a024d4fd5b5989aafc63" title="LEDHSV::setup" alt="" coords="173,360,288,387"/>
+<area shape="rect" id="node5" href="$class_l_e_d_h_s_v.html#ae3dc21fe38b88e30b9c11a9a8786a029" title="LEDHSV::setHue" alt="" coords="377,5,500,32"/>
+<area shape="rect" id="node13" href="$class_l_e_d_h_s_v.html#aebe231668b726a385c1b82736f0cb09b" title="LEDHSV::setSaturation" alt="" coords="359,56,518,83"/>
+<area shape="rect" id="node14" href="$class_l_e_d_h_s_v.html#abce8ee853fa02a354fbf9f98d5112b91" title="LEDHSV::setBrightness" alt="" coords="357,107,520,133"/>
+<area shape="rect" id="node6" href="$class_l_e_d_h_s_v.html#ab7ac4c7b3eae51e78f8535e15080c206" title="LEDHSV::HSV2RGB" alt="" coords="568,81,712,108"/>
+<area shape="rect" id="node7" href="$class_l_e_d_h_s_v.html#a2f1feeaaf89e2c58607f9b07575ea3c5" title="LEDHSV::setRGB" alt="" coords="760,120,888,147"/>
+<area shape="rect" id="node8" href="$class_l_e_d_h_s_v.html#aecae3e7339f644a2d964b0c6b9d8fd75" title="LEDHSV::setRedValue" alt="" coords="942,69,1098,96"/>
+<area shape="rect" id="node9" href="$class_l_e_d_h_s_v.html#af712340da45a7dc3b4e8b53c31253515" title="LEDHSV::setGreenValue" alt="" coords="936,120,1104,147"/>
+<area shape="rect" id="node10" href="$class_l_e_d_h_s_v.html#a1c2ba691fdb347be7713a7712f70e160" title="LEDHSV::setBlueValue" alt="" coords="941,171,1099,197"/>
+<area shape="rect" id="node11" href="$class_l_e_d_h_s_v.html#aa3aca422a0469c907222f0f590e7e85c" title="LEDHSV::send" alt="" coords="965,233,1075,260"/>
+<area shape="rect" id="node16" href="$class_l_e_d_h_s_v.html#ae07d5d74d9266aaebcbbbd306c125484" title="LEDHSV::setRedPin" alt="" coords="367,157,510,184"/>
+<area shape="rect" id="node17" href="$class_l_e_d_h_s_v.html#a4d9288b074c28961c506d6dabff166f5" title="LEDHSV::setGreenPin" alt="" coords="361,208,516,235"/>
+<area shape="rect" id="node18" href="$class_l_e_d_h_s_v.html#aae45fb425a2fb19bba02fc1deb75b04b" title="LEDHSV::setBluePin" alt="" coords="366,259,511,285"/>
+</map>
